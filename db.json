@@ -1,0 +1,46 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "title": "Coral Sea Escape",
+      "author": "E-shop",
+      "image": "https://images.unsplash.com/photo-1594471233145-1e2b579c5e9d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1329&q=80",
+      "description": "Our comprehensive coral sea package."
+    },
+    {
+      "id": 2,
+      "title": "Maldives Adventure",
+      "author": "E-shop",
+      "image": "https://images.unsplash.com/photo-1543731068-7e0f5beff43a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "description": "Meet us in the Maldives for an exclusive adventure."
+    },
+    {
+      "id": 3,
+      "title": "Indonesian Getaway",
+      "author": "E-shop",
+      "image": "https://images.unsplash.com/photo-1476158085676-e67f57ed9ed7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+      "description": "See Indonesia through our eyes."
+    },
+    {
+      "id": 4,
+      "title": "Central American Dream",
+      "author": "E-shop",
+      "image": "https://images.unsplash.com/photo-1568638888374-cc76dac40288?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "Central American bliss tailored to your wishes."
+    },
+    {
+      "id": 5,
+      "title": "Brazzilian Cocktails",
+      "author": "E-shop",
+      "image": "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "description": "An experience like no other."
+    },
+    {
+      "id": 6,
+      "title": "Wild Heart",
+      "author": "E-shop",
+      "image": "https://images.unsplash.com/photo-1521651000640-f7b2cb02ffb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description": "This package takes you through Africa."
+    }
+  ]
+}

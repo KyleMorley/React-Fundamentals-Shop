@@ -1,0 +1,7 @@
+// Goals For the app
+
+1. Fix Form and add validation - Done!
+2. Remove Item from cart or signal item is already booked
+3. Fix about margin-top - Done!
+4. Add about page info - Done!
+5. Fix animation on hero section 
